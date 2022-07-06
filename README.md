@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @iazkhan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+pkg update -y
+pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install python2 -y
+python3 -m pip install --upgrade pip
+pip install requests
+pip install mechanize
+pip install future
+python -m pip install bs4
+git clone https www iazkhan@github.com
+Cd iaz
+Python iaz.py
 
-<!---
-iazkhan/iazkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
